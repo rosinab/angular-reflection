@@ -1,0 +1,40 @@
+.header {
+    background-color: #599EBE;
+    color: white;
+    padding: 10px 0;
+    width: 100%;
+    text-align: center;
+}
+
+.nav {
+    background-color: #F2E3CD;
+    text-align: center;
+    width: 100%;
+    padding: 8px 0;
+}
+
+h1 {
+    font-family: 'Bungee', cursive;
+}
+
+h2 {
+    font-family: 'Lexend Zetta', sans-serif;
+    margin-top: -1.5rem;
+}
+
+h3 {
+    font-family: 'Lexend Zetta', sans-serif;
+}
+
+a {
+    color: #8cc3dd;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #8CC3DD;
+}
+
+a:hover {
+    color: #599EBE;
+}

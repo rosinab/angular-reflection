@@ -1,0 +1,34 @@
+h2 {
+    font-family: 'Lexend Zetta', sans-serif;
+    color: #F2F4EB;
+}
+
+h3 {
+    font-family: 'Lexend Zetta', sans-serif;
+    color: #F2E3CD;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    padding: 2px;
+    font-size: 1.1rem;
+}
+
+.toflex {
+    display: flex;
+    justify-content: center;
+}
+
+.aboutimg {
+    width: 10%;
+    height: 60%;
+    border-radius: 50%;
+}
+
+.box {
+    text-align: center;
+    width: 90%;
+    padding: 10px;
+    background-color: #8CC3DD;
+    color: white;
+}
